@@ -1,2 +1,1 @@
-# static-html
-static-html
+页面静态化
